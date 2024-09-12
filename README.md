@@ -1,1 +1,1 @@
-# DEngineering_Practice---From-DynamoDB-to-Bigquery
+# Data Engineering Practice Get Table from-DynamoDB to Bigquery
